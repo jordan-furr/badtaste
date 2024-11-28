@@ -7,7 +7,7 @@
     --green: #99ff80;
     --brat: #a0f16e;
     --lightgray: #99b7d2;
-    --secondary: #72aeff;
+    --secondary: #9acbff;
 }
 
 html,
@@ -705,8 +705,8 @@ a {
 }
 
 #logo {
-    font-size: 118px;
-    line-height: 166px;
+    font-size: 140px;
+    line-height: 130px;
     font-weight: 700;
     position: relative;
     display: inline-block;
@@ -718,7 +718,7 @@ a {
 }
 
 #logo:hover {
-    color: white;
+    color: var(--secondary);
 }
 
 .info {
@@ -805,6 +805,15 @@ a {
 
     #logo {
         padding-top: 28px;
+    }
+
+}
+
+@media (max-width: 1250px) {
+
+    #logo {
+        font-size: 120px;
+        line-height: 103px;
     }
 
 }

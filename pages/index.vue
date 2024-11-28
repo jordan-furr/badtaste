@@ -5,7 +5,7 @@
                 <p id="logo">Bad Taste</p>
             </div>
             <div class="info borderbox">
-                <p>Bad Taste is the web development & design practice of <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>. Bad Taste provides custom websites.</p>
+                <p>Bad Taste is the web development & design practice of <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>. Bad Taste provides unique and tailored websites.</p>
                 <br>
                 <p><a href="mailto:jordan@jordanfurr.com">Email</a></p>
                 <p><a href="https://www.instagram.com/badtaste.dev/" target="_">Instagram</a></p>
@@ -15,11 +15,11 @@
             <div class="info-section">
                 <p class="subtitle">CLIENTS</p>
                 <div class="site-list">
-                    <a href="https://spintheupwheel.netlify.app/" target="_">UP Tool Library</a>
+                    <a href="https://starlaces.org/" target="_">STAR Laces</a>
                     <a href="https://earnestproject.com/" target="_">Earnest Project</a>
-                    <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>
-                    <a href="https://www.theupsideofuncertainty.com/" target="_">The Upside of Uncertainty</a>
                     <a href="https://harmonpsychotherapy.com/" target="_">Harmon Psychotherapy & Consulting</a>
+                    <a href="https://spintheupwheel.netlify.app/" target="_">UP Tool Library</a>
+                    <a href="https://www.theupsideofuncertainty.com/" target="_">The Upside of Uncertainty</a>
                     <a href="https://centerforexpandingcompassion.org/" target="_">Center for Expanding Compassion</a>
                     <a href="https://madewithharmony.com/" target="_">Made with Harmony</a>
                     <a href="https://uncertaintyscience.com/" target="_">Uncertainty Science Initiative</a>
@@ -33,7 +33,6 @@
                     <p>Wordpress</p>
                     <p>Shopify</p>
                     <p>Figma</p>
-                    <p>Squarespace</p>
                 </div>
             </div>
         </div>
