@@ -7,6 +7,7 @@
     --green: #99ff80;
     --brat: #a0f16e;
     --lightgray: #99b7d2;
+    --secondary: #72aeff;
 }
 
 html,
@@ -17,7 +18,7 @@ body {
     padding: 0;
     font-size: 20px;
     line-height: 1.15;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "adobe-garamond-pro", serif;
     scroll-behavior: smooth !important;
 }
 
@@ -676,12 +677,15 @@ h6 {
 /* PROJECT SPECIFIC */
 
 body {
-    background-color: var(--red);
+    background-color: #dd0000;
 }
 
 a:hover {
     cursor: pointer;
-    color: var(--green);
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 3px;
+    text-decoration-color: var(--secondary);
 }
 
 p {
@@ -691,6 +695,9 @@ p {
 a {
     color: white;
     text-decoration: underline;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 3px;
+    text-decoration-color: white;
 }
 
 *:hover {
@@ -698,9 +705,8 @@ a {
 }
 
 #logo {
-    color: var(--green);
-    font-size: 26px;
-    line-height: 26px;
+    font-size: 118px;
+    line-height: 166px;
     font-weight: 700;
     position: relative;
     display: inline-block;
@@ -721,15 +727,11 @@ a {
     padding-left: 20px;
     padding-right: 20px;
     margin-bottom: 64px;
+    margin-top: .5rem;
 }
 
 .email-label {
     text-decoration: underline;
-}
-
-.email-label:hover {
-    cursor: pointer;
-    color: var(--green);
 }
 
 .info-section {
@@ -769,10 +771,6 @@ a {
     gap: 2px;
 }
 
-.site-list p{
-    text-decoration: none;
-}
-
 .info-col {
     display: flex;
     flex-direction: column;
@@ -782,7 +780,7 @@ a {
 
 .copied {
     margin-left: 16px;
-    color: var(--green);
+    color: var(--secondary);
 }
 
 

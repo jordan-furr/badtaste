@@ -2,10 +2,10 @@
     <div class="flex flex-col w-100 web-row">
         <div class="logo-section">
             <div>
-                <p id="logo">bad taste</p>
+                <p id="logo">Bad Taste</p>
             </div>
             <div class="info borderbox">
-                <p>bad taste is the web development & design practice of <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>. Based in Brooklyn, NY, bad taste specializes in crafting custom websites.</p>
+                <p>Bad Taste is the web development & design practice of <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>. Bad Taste provides custom websites.</p>
                 <br>
                 <p><a href="mailto:jordan@jordanfurr.com">Email</a></p>
                 <p><a href="https://www.instagram.com/badtaste.dev/" target="_">Instagram</a></p>
