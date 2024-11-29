@@ -710,8 +710,7 @@ a {
 }
 
 #logo {
-    font-size: 140px;
-    line-height: 130px;
+    font-size: 24px;
     font-weight: 700;
     padding-left: 20px;
     margin-bottom: 14px;
@@ -824,37 +823,3 @@ a {
 
 }
 
-@media (max-width: 1250px) {
-
-    #logo {
-        font-size: 120px;
-        line-height: 103px;
-    }
-
-}
-
-@media (max-width: 1250px) {
-
-    #logo {
-        font-size: 110px;
-        line-height: 103px;
-    }
-
-}
-
-@media (max-width: 590px) {
-
-    #logo {
-        font-size: 90px;
-        line-height: 84px;
-    }
-
-}
-
-@media (max-width: 490px) {
-
-    #logo {
-        font-size: 24px;
-        line-height: 24px;
-    }
-}
