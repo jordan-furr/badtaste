@@ -40,9 +40,8 @@
             <div class="info-section">
                 <p class="subtitle">INFLUENCE</p>
                 <div class="influencer">
-                    <p class="influence">Diana Vreeland</p>
                     <p>"We all need a splash of bad taste—it’s hearty, it’s healthy, it’s physical. I think we could use
-                        more of it. No taste is what I’m against."</p>
+                        more of it. No taste is what I’m against." Diana Vreeland</p>
                     <!---
                     <br>
                     <p class="influence">Frequencies</p>

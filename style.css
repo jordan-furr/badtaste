@@ -7,7 +7,9 @@
     --green: #99ff80;
     --brat: #a0f16e;
     --lightgray: #99b7d2;
-    --secondary: #9acbff;
+    --blue: #9acbff;
+    --secondary: #ff0063;
+
 }
 
 html,
@@ -20,6 +22,9 @@ body {
     line-height: 1.15;
     font-family: "adobe-garamond-pro", serif;
     scroll-behavior: smooth !important;
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
 }
 
 body {
@@ -683,7 +688,7 @@ body {
 a:hover {
     cursor: pointer;
     text-decoration: underline;
-    text-decoration-thickness: 3px;
+    text-decoration-thickness: 2px;
     text-underline-offset: 3px;
     text-decoration-color: var(--secondary);
 }
@@ -695,7 +700,7 @@ p {
 a {
     color: white;
     text-decoration: underline;
-    text-decoration-thickness: 3px;
+    text-decoration-thickness: 2px;
     text-underline-offset: 3px;
     text-decoration-color: white;
 }
@@ -807,6 +812,14 @@ a {
         padding-top: 28px;
     }
 
+    a:hover {
+        text-decoration-thickness: 3px;
+    }
+
+    a {
+        text-decoration-thickness: 3px;
+    }
+
 }
 
 @media (max-width: 1250px) {
@@ -814,6 +827,37 @@ a {
     #logo {
         font-size: 120px;
         line-height: 103px;
+    }
+
+}
+
+@media (max-width: 1250px) {
+
+    #logo {
+        font-size: 110px;
+        line-height: 103px;
+    }
+
+}
+
+@media (max-width: 590px) {
+
+    #logo {
+        font-size: 90px;
+        line-height: 84px;
+    }
+
+}
+
+@media (max-width: 490px) {
+
+    #logo {
+        font-size: 40px;
+        line-height: 36px;
+    }
+
+    .subtitle {
+        font-size: 18px;
     }
 
 }
