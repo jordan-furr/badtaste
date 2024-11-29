@@ -713,13 +713,15 @@ a {
     font-size: 140px;
     line-height: 130px;
     font-weight: 700;
-    position: relative;
-    display: inline-block;
     padding-left: 20px;
-    margin-bottom: 20px;
-    padding-top: 36px;
+    margin-bottom: 14px;
+    padding-top: 24px;
     font-family: 'Inter';
     box-sizing: border-box;
+}
+
+.subheader {
+    margin-bottom: 16px;
 }
 
 #logo:hover {
@@ -731,8 +733,8 @@ a {
     display: inline-block;
     padding-left: 20px;
     padding-right: 20px;
-    margin-bottom: 64px;
-    margin-top: .5rem;
+    margin-bottom: 50px;
+    margin-top: 1rem;
 }
 
 .email-label {
@@ -743,13 +745,13 @@ a {
     position: relative;
     display: inline-block;
     padding-left: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 32px;
 }
 
 .subtitle {
     font-weight: 700;
     font-size: 15px;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
     font-family: 'Inter';
     color: white;
 }
@@ -852,12 +854,7 @@ a {
 @media (max-width: 490px) {
 
     #logo {
-        font-size: 40px;
-        line-height: 36px;
+        font-size: 24px;
+        line-height: 24px;
     }
-
-    .subtitle {
-        font-size: 18px;
-    }
-
 }
