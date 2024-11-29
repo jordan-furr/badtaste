@@ -5,15 +5,14 @@
                 <p id="logo">Bad Taste</p>
             </div>
             <div class="info borderbox">
-                <p>Bad Taste is the web development & design practice of <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>. Bad Taste provides unique and tailored websites.</p>
-                <br>
-                <p><a href="mailto:jordan@jordanfurr.com">Email</a></p>
+                <p class="subheader">Bad Taste is the web development & design practice of <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>. Bad Taste provides unique and tailored websites.</p>
+                <p><a href="mailto:jordan@jordanfurr.com">jordan@jordanfurr.com</a></p>
                 <p><a href="https://www.instagram.com/badtaste.dev/" target="_">Instagram</a></p>
             </div>
         </div>
         <div class="info-col">
             <div class="info-section">
-                <p class="subtitle">CLIENTS</p>
+                <p class="subtitle">COLLABORATIONS</p>
                 <div class="site-list">
                     <a href="https://starlaces.org/" target="_">STAR Laces</a>
                     <a href="https://earnestproject.com/" target="_">Earnest Project</a>
@@ -26,7 +25,7 @@
                 </div>
             </div>
             <div class="info-section">
-                <p class="subtitle">TECHNOLOGIES</p>
+                <p class="subtitle">SERVICES</p>
                 <div class="service-list">
                     <p>Nuxt</p>
                     <p>Vue.js</p>
