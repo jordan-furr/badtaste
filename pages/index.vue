@@ -5,7 +5,7 @@
                 <p id="logo">Bad Taste</p>
             </div>
             <div class="info borderbox">
-                <p class="subheader">Bad Taste is the web development & design practice of <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>. Bad Taste provides unique and tailored websites.</p>
+                <p class="subheader">Bad Taste specializes in creating unique, tailored websites for a diverse range of clients. Bad Taste is the web development & design practice of <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>, based in Brooklyn, NY.</p>
                 <p><a href="mailto:jordan@jordanfurr.com">jordan@jordanfurr.com</a></p>
                 <p><a href="https://www.instagram.com/badtaste.dev/" target="_">Instagram</a></p>
             </div>
@@ -73,6 +73,9 @@ export default {
         return {
             copied: false
         }
+    },
+    mounted() {
+        window.scrollTo(0, 0);
     },
     methods: {
         emailCopy() {
