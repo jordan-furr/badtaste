@@ -682,7 +682,8 @@ h6 {
 /* PROJECT SPECIFIC */
 
 body {
-    background-color: #dd0000;
+    /* #dd0000 */
+    background-color: #740101;
 }
 
 a:hover {
@@ -694,7 +695,7 @@ a:hover {
 }
 
 p {
-    color: white;
+    color: #9acbff;
 }
 
 a {
@@ -702,7 +703,7 @@ a {
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 3px;
-    text-decoration-color: white;
+    text-decoration-color: #9acbff;
 }
 
 *:hover {
@@ -727,7 +728,7 @@ a {
     margin-bottom: 23px;
 }
 
-#logo:hover {
+.pinkhover:hover {
     color: var(--secondary);
 }
 
@@ -748,7 +749,7 @@ a {
     position: relative;
     display: inline-block;
     padding-left: 20px;
-    margin-bottom: 32px;
+    margin-bottom: 36px;
 }
 
 .subtitle {
@@ -756,7 +757,7 @@ a {
     font-size: 15px;
     margin-bottom: 10px;
     font-family: 'Inter';
-    color: white;
+    color: #9acbff;
 }
 
 .influence {
