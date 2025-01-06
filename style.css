@@ -8,7 +8,8 @@
     --brat: #a0f16e;
     --lightgray: #99b7d2;
     --blue: #9acbff;
-    --secondary: #ff0063;
+    --darkpink: #ff0063;
+    --secondary: #ff9fed;
 
 }
 
@@ -683,7 +684,7 @@ h6 {
 
 body {
     /* #dd0000 */
-    background-color: #740101;
+    background-color: #dd0000;
 }
 
 a:hover {
@@ -691,11 +692,11 @@ a:hover {
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 3px;
-    text-decoration-color: var(--secondary);
+    text-decoration-color: white;
 }
 
 p {
-    color: #9acbff;
+    color: white;
 }
 
 a {
@@ -703,7 +704,7 @@ a {
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 3px;
-    text-decoration-color: #9acbff;
+    text-decoration-color: var(--secondary);
 }
 
 *:hover {
@@ -749,7 +750,7 @@ a {
     position: relative;
     display: inline-block;
     padding-left: 20px;
-    margin-bottom: 36px;
+    margin-bottom: 2rem;
 }
 
 .subtitle {
@@ -757,7 +758,7 @@ a {
     font-size: 15px;
     margin-bottom: 10px;
     font-family: 'Inter';
-    color: #9acbff;
+    color: white;
 }
 
 .influence {
@@ -772,6 +773,15 @@ a {
     display: inline-block;
     display: flex;
     flex-direction: column;
+}
+
+ul {
+    margin: 0;
+    padding-left: 32px;
+}
+
+li {
+    color: white;
 }
 
 .site-list {
