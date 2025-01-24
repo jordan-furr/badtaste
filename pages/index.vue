@@ -5,8 +5,9 @@
                 <p id="logo"><span class="pinkhover">Bad Taste</span></p>
             </div>
             <div class="info borderbox">
-                <p class="subheader">Bad Taste specializes in unique, tailored websites for diverse clients. Bad Taste is the web development & design practice of <a href="https://jordanfurr.com/"
-                        target="_">Jordan Furr.</a></p>
+                <p class="subheader">Bad Taste specializes in unique, tailored websites for diverse clients. Bad Taste
+                    is the web development & design practice of <a href="https://jordanfurr.com/" target="_">Jordan
+                        Furr.</a></p>
                 <p><a href="mailto:jordan@jordanfurr.com">jordan@jordanfurr.com</a></p>
                 <p><a href="https://www.instagram.com/badtaste.dev/" target="_">Instagram</a></p>
             </div>
@@ -30,11 +31,21 @@
                 <p class="subtitle">TECHNOLOGIES</p>
                 <div class="service-list">
                     <ul>
-                        <li><p>Next</p></li>
-                        <li><p>Nuxt/Vue</p></li>
-                        <li><p>Wordpress</p></li>
-                        <li><p>Shopify</p></li>
-                        <li><p>Figma</p></li>
+                        <li>
+                            <p>Next</p>
+                        </li>
+                        <li>
+                            <p>Nuxt/Vue</p>
+                        </li>
+                        <li>
+                            <p>Wordpress</p>
+                        </li>
+                        <li>
+                            <p>Shopify</p>
+                        </li>
+                        <li>
+                            <p>Figma</p>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -42,13 +53,27 @@
                 <p class="subtitle">SERVICES</p>
                 <div class="service-list">
                     <ul>
-                        <li><p>Audit & Review</p></li>
-                        <li><p>Design/Redesign</p></li>
-                        <li><p>Development</p></li>
-                        <li><p>Customization</p></li>
-                        <li><p>Monetization</p></li>
-                        <li><p>Color Branding</p></li>
-                        <li><p>Copy Writing</p></li>
+                        <li>
+                            <p>Audit & Review</p>
+                        </li>
+                        <li>
+                            <p>Design/Redesign</p>
+                        </li>
+                        <li>
+                            <p>Development</p>
+                        </li>
+                        <li>
+                            <p>Customization</p>
+                        </li>
+                        <li>
+                            <p>Monetization</p>
+                        </li>
+                        <li>
+                            <p>Color Branding</p>
+                        </li>
+                        <li>
+                            <p>Copy Writing</p>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -65,13 +90,14 @@
                 <p class="subtitle">MANIFESTO</p>
                 <div>
                     <p>A website is a platform, a reflection, a statement, a gallery, a journey, an expression, an
-                        archive, an autobiography. Bad Taste is guided by: invention, beauty, freshness and detail.</p>
+                        archive, an autobiography. Guided by invention, beauty, freshness, and nuance.</p>
                 </div>
             </div>
             <div class="info-section">
                 <p class="subtitle">TESTIMONIALS</p>
                 <div>
-                    <p class="mb3">"The way [our website] is organized is so much better than we could have dreamed. Bad Taste did
+                    <p class="mb3">"The way [our website] is organized is so much better than we could have dreamed. Bad
+                        Taste did
                         such great work."</p>
                     <p>"We are so grateful and feel so excited about what Bad Taste has done. It puts us in a really
                         good place going forward."</p>
