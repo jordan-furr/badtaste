@@ -5,8 +5,7 @@
                 <p id="logo"><span class="pinkhover">Bad Taste</span></p>
             </div>
             <div class="info borderbox">
-                <p class="subheader">Bad Taste specializes in creating unique, tailored websites for a diverse range of
-                    clients. Bad Taste is the web development & design practice of <a href="https://jordanfurr.com/"
+                <p class="subheader">Bad Taste specializes in unique, tailored websites for diverse clients. Bad Taste is the web development & design practice of <a href="https://jordanfurr.com/"
                         target="_">Jordan Furr.</a></p>
                 <p><a href="mailto:jordan@jordanfurr.com">jordan@jordanfurr.com</a></p>
                 <p><a href="https://www.instagram.com/badtaste.dev/" target="_">Instagram</a></p>
@@ -66,7 +65,7 @@
                 <p class="subtitle">MANIFESTO</p>
                 <div>
                     <p>A website is a platform, a reflection, a statement, a gallery, a journey, an expression, an
-                        arcive, an autobiography. Bad Taste is guided by: invention, beauty, freshness and detail.</p>
+                        archive, an autobiography. Bad Taste is guided by: invention, beauty, freshness and detail.</p>
                 </div>
             </div>
             <div class="info-section">
