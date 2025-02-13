@@ -5,7 +5,7 @@
                 <p id="logo"><span class="pinkhover">Bad Taste</span></p>
             </div>
             <div class="info borderbox">
-                <p class="subheader">Bad Taste specializes in unique, tailored websites for diverse clients. Bad Taste
+                <p class="subheader">Bad Taste specializes in custom retro websites for small brands and portfolios. Bad Taste
                     is the web development & design practice of <a href="https://jordanfurr.com/" target="_">Jordan
                         Furr.</a></p>
                 <p><a href="mailto:jordan@jordanfurr.com">jordan@jordanfurr.com</a></p>
@@ -14,7 +14,7 @@
         </div>
         <div class="info-col">
             <div class="info-section">
-                <p class="subtitle">COLLABORATIONS</p>
+                <p class="subtitle">WORK</p>
                 <div class="site-list">
                     <a href="https://earnestproject.com/" target="_">Earnest Project</a>
                     <a href="https://upschool.org/" target="_">UP School</a>
@@ -32,10 +32,10 @@
                 <div class="service-list">
                     <ul>
                         <li>
-                            <p>Next</p>
+                            <p>Next + React</p>
                         </li>
                         <li>
-                            <p>Nuxt/Vue</p>
+                            <p>Nuxt + Vue</p>
                         </li>
                         <li>
                             <p>Wordpress</p>
@@ -45,34 +45,6 @@
                         </li>
                         <li>
                             <p>Figma</p>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="info-section">
-                <p class="subtitle">SERVICES</p>
-                <div class="service-list">
-                    <ul>
-                        <li>
-                            <p>Audit & Review</p>
-                        </li>
-                        <li>
-                            <p>Design/Redesign</p>
-                        </li>
-                        <li>
-                            <p>Development</p>
-                        </li>
-                        <li>
-                            <p>Customization</p>
-                        </li>
-                        <li>
-                            <p>Monetization</p>
-                        </li>
-                        <li>
-                            <p>Color Branding</p>
-                        </li>
-                        <li>
-                            <p>Copy Writing</p>
                         </li>
                     </ul>
                 </div>
@@ -96,11 +68,10 @@
             <div class="info-section">
                 <p class="subtitle">TESTIMONIALS</p>
                 <div>
-                    <p class="mb3">"The way [our website] is organized is so much better than we could have dreamed. Bad
-                        Taste did
-                        such great work."</p>
-                    <p>"We are so grateful and feel so excited about what Bad Taste has done. It puts us in a really
-                        good place going forward."</p>
+                    <p class="mb3">We are so grateful and feel so excited about what [BT] has done. It puts us in a really
+                        good place going forward.</p>
+                    <p class="mb3">The way [our site] is organized is so much better than we could have dreamed. Bad
+                        Taste did such great work.</p>
                 </div>
             </div>
         </div>
