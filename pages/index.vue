@@ -5,10 +5,9 @@
                 <p id="logo"><span class="pinkhover">Bad Taste</span></p>
             </div>
             <div class="info borderbox">
-                <p class="subheader">Bad Taste specializes in custom retro websites for small brands and portfolios. Bad Taste
-                    is the web development & design practice of <a href="https://jordanfurr.com/" target="_">Jordan
-                        Furr.</a></p>
-                <p><a href="mailto:jordan@jordanfurr.com">jordan@jordanfurr.com</a></p>
+                <p class="subheader">Web development & design studio specializing in
+                    custom websites for small brands & small projects. Based in Berlin.</p>
+                <p><a href="mailto:jordan@jordanfurr.com">Email</a></p>
                 <p><a href="https://www.instagram.com/badtaste.dev/" target="_">Instagram</a></p>
             </div>
         </div>
@@ -17,6 +16,7 @@
                 <p class="subtitle">WORK</p>
                 <div class="site-list">
                     <a href="https://earnestproject.com/" target="_">Earnest Project</a>
+                    <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>
                     <a href="https://upschool.org/" target="_">UP School</a>
                     <a href="https://harmonpsychotherapy.com/" target="_">Harmon Psychotherapy & Consulting</a>
                     <a href="https://www.theupsideofuncertainty.com/" target="_">The Upside of Uncertainty</a>
@@ -62,13 +62,14 @@
                 <p class="subtitle">MANIFESTO</p>
                 <div>
                     <p>A website is a platform, a reflection, a statement, a gallery, a journey, an expression, an
-                        archive, an autobiography. Guided by invention, beauty, freshness, and nuance.</p>
+                        archive, an autobiography.</p>
                 </div>
             </div>
             <div class="info-section">
                 <p class="subtitle">TESTIMONIALS</p>
                 <div>
-                    <p class="mb3">We are so grateful and feel so excited about what [BT] has done. It puts us in a really
+                    <p class="mb3">We are so grateful and feel so excited about what [BT] has done. It puts us in a
+                        really
                         good place going forward.</p>
                     <p class="mb3">The way [our site] is organized is so much better than we could have dreamed. Bad
                         Taste did such great work.</p>
