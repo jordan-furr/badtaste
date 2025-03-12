@@ -15,15 +15,15 @@
             <div class="info-section">
                 <p class="subtitle">WORK</p>
                 <div class="site-list">
-                    <a href="https://earnestproject.com/" target="_">Earnest Project</a>
-                    <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>
                     <a href="https://upschool.org/" target="_">UP School</a>
+                    <a href="https://earnestproject.com/" target="_">Earnest Project</a>
+                    <a href="https://starlaces.org/" target="_">STAR Laces</a>
+                    <a href="https://spintheupwheel.netlify.app/" target="_">UP Tool Library</a>
+                    <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>
                     <a href="https://harmonpsychotherapy.com/" target="_">Harmon Psychotherapy & Consulting</a>
                     <a href="https://www.theupsideofuncertainty.com/" target="_">The Upside of Uncertainty</a>
-                    <a href="https://starlaces.org/" target="_">STAR Laces</a>
                     <a href="https://centerforexpandingcompassion.org/" target="_">Center for Expanding Compassion</a>
                     <a href="https://madewithharmony.com/" target="_">Made with Harmony</a>
-                    <a href="https://spintheupwheel.netlify.app/" target="_">UP Tool Library</a>
                     <a href="https://uncertaintyscience.com/" target="_">Uncertainty Science Initiative</a>
                 </div>
             </div>
