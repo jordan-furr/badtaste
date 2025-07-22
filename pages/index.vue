@@ -5,8 +5,8 @@
                 <p id="logo"><span class="pinkhover">Bad Taste</span></p>
             </div>
             <div class="info borderbox">
-                <p class="subheader">Web development & design studio specializing in
-                    custom websites for small brands & creative projects. Based in Berlin.</p>
+                <p class="subheader">Web design & development studio specializing in
+                    custom websites for creative projects. Based in Brooklyn, NY.</p>
                 <p><a href="mailto:jordan@jordanfurr.com">Email</a></p>
                 <p><a href="https://www.instagram.com/badtaste.dev/" target="_">Instagram</a></p>
             </div>
@@ -16,15 +16,15 @@
                 <p class="subtitle">WORK</p>
                 <div class="site-list">
                     <a href="https://upschool.org/" target="_">UP School</a>
-                    <a href="https://earnestproject.com/" target="_">Earnest Project</a>
                     <a href="https://starlaces.org/" target="_">STAR Laces</a>
-                    <a href="https://spintheupwheel.netlify.app/" target="_">UP Tool Library</a>
+                    <a href="https://earnestproject.com/" target="_">Earnest Project</a>
+                    <a href="https://ezrafurr.vercel.app/" target="_">Ezra Geo</a>
+                    <a href="https://spintheupwheel.netlify.app/" target="_">Tool Library</a>
                     <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>
                     <a href="https://harmonpsychotherapy.com/" target="_">Harmon Psychotherapy & Consulting</a>
                     <a href="https://www.theupsideofuncertainty.com/" target="_">The Upside of Uncertainty</a>
                     <a href="https://centerforexpandingcompassion.org/" target="_">Center for Expanding Compassion</a>
                     <a href="https://madewithharmony.com/" target="_">Made with Harmony</a>
-                    <a href="https://uncertaintyscience.com/" target="_">Uncertainty Science Initiative</a>
                 </div>
             </div>
             <div class="info-section">
@@ -32,16 +32,19 @@
                 <div class="service-list">
                     <ul>
                         <li>
-                            <p>Next + React</p>
+                            <p>React/Next.js</p>
                         </li>
                         <li>
-                            <p>Nuxt + Vue</p>
+                            <p>Vue/Nuxt.js</p>
                         </li>
                         <li>
                             <p>Wordpress</p>
                         </li>
                         <li>
                             <p>Shopify</p>
+                        </li>
+                        <li>
+                            <p>Sanity</p>
                         </li>
                         <li>
                             <p>Figma</p>
@@ -68,12 +71,10 @@
             <div class="info-section">
                 <p class="subtitle">WORDS FROM CLIENTS</p>
                 <div>
-                    <p class="mb3">We are so grateful and feel so excited about what Bad Taste has done. The way our
-                        site is organized is so much better than we could have dreamed. It puts us in a really good
-                        place going forward.</p>
-                    <p class="mb3">Every one of my ideas are upleveled in their hands. Excellent listeners and
-                        creatives. It's a fun process to send over a rough idea and get back something even better than
-                        I could have imagined. </p>
+                    <p class="mb3">The way our site is organized is so much better than we could have dreamed. It puts
+                        us in a really good place.</p>
+                    <p class="mb3"> Excellent listeners and
+                        creatives. Every one of my ideas are upleveled in their hands. </p>
                 </div>
             </div>
         </div>
