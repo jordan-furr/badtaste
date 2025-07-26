@@ -18,6 +18,7 @@
                     <a href="https://upschool.org/" target="_">UP School</a>
                     <a href="https://starlaces.org/" target="_">STAR Laces</a>
                     <a href="https://earnestproject.com/" target="_">Earnest Project</a>
+                    <a href="https://www.hopeaccelerator.com/" target="_">Hope Accelerator</a>
                     <a href="https://ezrafurr.vercel.app/" target="_">Ezra Geo</a>
                     <a href="https://spintheupwheel.netlify.app/" target="_">Tool Library</a>
                     <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>
