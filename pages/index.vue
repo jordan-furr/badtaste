@@ -5,10 +5,9 @@
                 <p id="logo"><span class="pinkhover">Bad Taste</span></p>
             </div>
             <div class="info borderbox">
-                <p class="subheader">Web design & development studio specializing in
-                    custom websites for creative projects. Based in Brooklyn, NY.</p>
+                <p class="subheader">Brand strategy and web studio defining your online presence. Based in Brooklyn, NY.</p>
                 <p><a href="mailto:jordan@jordanfurr.com">Email</a></p>
-                <p><a href="https://www.instagram.com/badtaste.dev/" target="_">Instagram</a></p>
+                <p><a href="https://www.instagram.com/bad_taste___/" target="_">Instagram</a></p>
             </div>
         </div>
         <div class="info-col">
@@ -19,7 +18,7 @@
                     <a href="https://starlaces.org/" target="_">STAR Laces</a>
                     <a href="https://earnestproject.com/" target="_">Earnest Project</a>
                     <a href="https://www.hopeaccelerator.com/" target="_">Hope Accelerator</a>
-                    <a href="https://ezrafurr.vercel.app/" target="_">Ezra Geo</a>
+                    <a href="https://ezrafurr.com/" target="_">Ezra Geo</a>
                     <a href="https://spintheupwheel.netlify.app/" target="_">Tool Library</a>
                     <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>
                     <a href="https://harmonpsychotherapy.com/" target="_">Harmon Psychotherapy & Consulting</a>
