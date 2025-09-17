@@ -14,10 +14,11 @@
             <div class="info-section">
                 <p class="subtitle">WORK</p>
                 <div class="site-list">
-                    <a href="https://drink-wall.vercel.app/" target="_">drink-wall</a>
+                    <a href="https://drink-wall.com/" target="_">drink-wall</a>
                     <a href="https://upschool.org/" target="_">UP School</a>
                     <a href="https://starlaces.org/" target="_">STAR Laces</a>
                     <a href="https://www.hopeaccelerator.com/" target="_">Hope Accelerator</a>
+                    <a href="https://samewave7.com/" target="_">SAMEWAVE7</a>
                     <a href="https://earnestproject.com/" target="_">Earnest Project</a>
                     <a href="https://ezrafurr.com/" target="_">Ezra</a>
                     <a href="https://spintheupwheel.netlify.app/" target="_">Tool Library</a>
