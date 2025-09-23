@@ -24,6 +24,7 @@
                     <a href="https://earnestproject.com/" target="_">Earnest Project</a>
                     <a href="https://spintheupwheel.netlify.app/" target="_">Tool Library</a>
                     <a href="https://harmonpsychotherapy.com/" target="_">Harmon Psychotherapy & Consulting</a>
+                    <a href="https://curiosity-is-enough.vercel.app/" target="_">Curiosity Is Enough</a>
                     <a href="https://centerforexpandingcompassion.org/" target="_">CFEC</a>
                     <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>
                     <a href="https://ezrafurr.com/" target="_">Ezra Geo</a>
