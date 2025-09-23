@@ -8,7 +8,7 @@
                 <p class="subheader">Brand strategy and web studio defining your online presence. Based in Brooklyn, NY.</p>
                 <p><a href="mailto:jordan@jordanfurr.com">Email</a></p>
                 <p><a href="https://www.instagram.com/bad_taste___/" target="_">Instagram</a></p>
-            </div>
+            </div>            
         </div>
         <div class="info-col">
             <div class="info-section">
@@ -19,14 +19,15 @@
                     <a href="https://starlaces.org/" target="_">STAR Laces</a>
                     <a href="https://www.hopeaccelerator.com/" target="_">Hope Accelerator</a>
                     <a href="https://samewave7.com/" target="_">SAMEWAVE7</a>
-                    <a href="https://earnestproject.com/" target="_">Earnest Project</a>
-                    <a href="https://ezrafurr.com/" target="_">Ezra</a>
-                    <a href="https://spintheupwheel.netlify.app/" target="_">Tool Library</a>
-                    <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>
-                    <a href="https://harmonpsychotherapy.com/" target="_">Harmon Psychotherapy & Consulting</a>
                     <a href="https://www.theupsideofuncertainty.com/" target="_">The Upside of Uncertainty</a>
-                    <a href="https://centerforexpandingcompassion.org/" target="_">Center for Expanding Compassion</a>
                     <a href="https://madewithharmony.com/" target="_">Made with Harmony</a>
+                    <a href="https://earnestproject.com/" target="_">Earnest Project</a>
+                    <a href="https://spintheupwheel.netlify.app/" target="_">Tool Library</a>
+                    <a href="https://harmonpsychotherapy.com/" target="_">Harmon Psychotherapy & Consulting</a>
+                    <a href="https://centerforexpandingcompassion.org/" target="_">CFEC</a>
+                    <a href="https://jordanfurr.com/" target="_">Jordan Furr</a>
+                    <a href="https://ezrafurr.com/" target="_">Ezra Geo</a>
+
                 </div>
             </div>
             <div class="info-section">
